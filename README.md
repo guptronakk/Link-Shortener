@@ -10,4 +10,4 @@ Add 2 table
 
 in localhost:8888/phpmyadmin/
 
-database name : 
+database name : "dB2"
