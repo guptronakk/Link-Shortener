@@ -1,4 +1,4 @@
-put ls folder in htdocs 
+put "ls" folder in htdocs 
 
 browser :
 
