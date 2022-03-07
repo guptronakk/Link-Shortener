@@ -4,7 +4,7 @@ unzip it then
 
 put "ls" folder in htdocs 
 
-change in /environment.php file according to need
+change in htdocs/ls/environment.php file according to need
 
 database name : "dB2"
 
