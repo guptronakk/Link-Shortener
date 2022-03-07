@@ -11,3 +11,5 @@ Add 2 table
 in localhost:8888/phpmyadmin/
 
 database name : "dB2"
+
+change site name for hosting according to your site domain in file.     /tiny/siteName.php
