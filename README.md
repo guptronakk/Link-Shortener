@@ -1,4 +1,7 @@
 Download zip file 
+
+unzip it then 
+
 put "ls" folder in htdocs 
 
 change in /environment.php file according to need
