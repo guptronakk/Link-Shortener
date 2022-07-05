@@ -19,3 +19,5 @@ Add 2 table in database
 change site name for hosting according to your site domain in file.     /tiny/siteName.php
 
 browser url : localhost:8888/ls/
+
+" Live site - http://micro.epizy.com "
