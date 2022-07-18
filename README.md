@@ -1,23 +1,63 @@
-Download zip file 
-
-unzip it then 
-
-put "ls" folder in htdocs 
-
-change in htdocs/ls/environment.php file according to need
-
-in localhost:8888/phpmyadmin/
-
-create database 
-
-database name : "dB2"
-
-Add 2 table in database
-1) link.sql
-2) users.sql
-
-change site name for hosting according to your site domain in file.     /tiny/siteName.php
-
-browser url : localhost:8888/ls/
+# How to Run on local 📖
 
 " Live site - http://micro.epizy.com "
+
+- Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
+- Tutorial - https://www.youtube.com/watch?v=mVBe75aGBHQ
+
+
+- Must install xampp (FOR WINDOWS) & MAMP (FOR MAC) 
+- Tutorial - https://www.youtube.com/watch?v=at19OmH2Bg4
+
+-------*---------*----------
+
+Step -1   Download zip file 
+
+Step -2   unzip it 
+
+Step -3   Put ls folder inside 
+
+          /Applications/MAMP/htdocs/  folder  (FOR MAC)
+          C:/xampp/htdocs/            folder  (FOR WINDOWS)
+
+Step -4   Change in /Applications/MAMP/htdocs/gForm/environment.php. file (FOR MAC)
+          
+            <?php
+               $env_server = "localhost";
+               $env_username = "root";
+               $env_password = "root";
+               $env_database = "dB2";
+               $env_port = "8889";
+            ?>
+
+Step -4   Change in htdocs/gForm/environment.php. file (FOR WINDOWS)
+          
+            <?php
+              $env_server = "localhost:3306";
+              $env_username = "root";
+              $env_password = "";
+              $env_database = "dB2";
+              $env_port = "3306";
+            ?>
+
+Step -5   Setup db open 
+
+          localhost:8888/phpmyadmin/   (FOR MAC)
+          localhost/phpmyadmin/        (FOR WINDOWS)
+
+Step -6   Create database 
+
+Step -7   Database name  "dB2"
+
+Step -8   Add Three tables from "/" directory in database name "dB2". 
+
+              1) link.sql
+              2) users.sql
+
+
+Step -9   Run in browser 
+
+          localhost:8888/ls/     (FOR MAC)
+          localhost/ls/          (FOR WINDOWS)
+
+
