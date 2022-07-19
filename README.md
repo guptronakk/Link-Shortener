@@ -1,6 +1,6 @@
 # How to Run on local 📖
 
-" Live site - http://micro.epizy.com "
+" Live site -> http://micro.epizy.com "
 
 - Must install PHP version (FOR WINDOWS) & (FOR MAC) Both
 - Tutorial - https://www.youtube.com/watch?v=mVBe75aGBHQ
