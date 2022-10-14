@@ -61,13 +61,13 @@
   background: none;
   padding: 0;
   z-index: 2;
-  font-size: 40px;
+  font-size: 38px;
   text-decoration: none;
   left: -23px;
   border: 0;
   top: 30%;
   cursor: pointer;
-  color: #666;
+  color: #665;
   opacity: 1;
   line-height: 1;
   transition: opacity 0.5s cubic-bezier(0.17, 0.67, 0.83, 0.67),
