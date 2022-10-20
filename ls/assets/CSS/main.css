@@ -542,6 +542,9 @@ input::placeholder {
 .checkboxDiv {
   margin-bottom: 10px;
 }
+.checkboxDiv-1 {
+  margin-bottom: 10px;
+}
 
 .checkboxName {
   font-family: "Ubuntu", sans-serif;
