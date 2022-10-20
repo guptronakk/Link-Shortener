@@ -1,4 +1,4 @@
-# How to Run on local 📖
+# How to Run on Local 📖
 
 
 ### Live Site --> <a href="http://micro.epizy.com" target="_blank">Click Here</a>
