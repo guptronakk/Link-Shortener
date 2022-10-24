@@ -56,7 +56,7 @@ Step -8   Add Three tables from "/" directory in database name "dB2".
               2) users.sql
 
 
-Step -9   Run in browser 
+Step -9   Run in Browser 
 
           localhost:8888/ls/     (FOR MAC)
           localhost/ls/          (FOR WINDOWS)
