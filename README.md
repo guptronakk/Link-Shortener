@@ -61,4 +61,3 @@ Step -9   Run in Browser
           localhost:8888/ls/     (FOR MAC)
           localhost/ls/          (FOR WINDOWS)
 
-
