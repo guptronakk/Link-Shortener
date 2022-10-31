@@ -22,6 +22,10 @@
   background: #888; 
 }
 
+ronakk--gupt {
+  background: #888; 
+}
+
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
